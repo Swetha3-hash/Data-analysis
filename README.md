@@ -1,1 +1,0 @@
-Bellabeat_casestudy1.r
